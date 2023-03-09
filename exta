@@ -1,0 +1,28 @@
+
+
+  <div class="testWord">
+    <p>Testimonials</p>
+    <h4>sumotrust, is solving problems and<br> creating happiness.</h4>
+  </div>
+  
+  <div class="testflex">
+
+    <div>
+      <img src="img/Rectangle_4376-removebg-preview 1.png" alt="">
+    </div>
+
+    <div class="flexWord">
+      <h4>Sending money back home to my parents and siblings<br> has never been this easy and stress-free. Thank you<br>Sumotrust</h4>
+    </div>
+
+      <div class="icons">
+      </div>
+      <div class="name">
+        <h5>Mrs. Winifred Oyo-Ogun</h5>
+        <p>California State University</p>
+
+      </div>
+    </div>
+  </div>
+  </div>
+
